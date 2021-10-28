@@ -44,60 +44,60 @@ function Navbar() {
             </li>
             <li className="nav-item">
               <Link
-                to="/Cocktails"
+                to="/Intro"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                Cocktails
+                Intro
               </Link>
             </li>
             <li className="nav-item">
               <Link
-                to="/Create"
+                to="/IntroAlgorithms"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                Create your own!
+                Intro Algorithms
               </Link>
             </li>
             <li className="nav-item">
               <Link
-                to="/Knowledge"
+                to="/IntroAlgorithmsCont"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                Learn More
+                Intro Algorithms 2
               </Link>
             </li>
             <li className="nav-item">
               <Link
-                to="/Suggestions"
+                to="/IntroAlgorithmsComplex"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                Suggestions
+                Complex Algorithms
               </Link>
             </li>
             <li className="nav-item">
               <Link
-                to="/Contact"
+                to="/LearningReact"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                Contact
+                Learn React
               </Link>
             </li>
             <li className="nav-item">
               <Link
-                to="/AboutUs"
+                to="/DeepDive"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                About Us
+                Deeper Dive
               </Link>
             </li>
           </ul>
-          {button && <Button buttonStyle="btn--outline">Contact</Button>}
+         {button && <Button buttonStyle="btn--outline">Contact</Button>}
         </div>
       </nav>
     </>
