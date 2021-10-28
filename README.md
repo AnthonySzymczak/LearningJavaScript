@@ -12,7 +12,7 @@ Welcome to my intro to Java script! Here we will be going over the basics of Jav
 - Intro to Algorithms Complex
 - Taking a Deeper Dive ( A more in depth look into Java Script!)
 - Learning React
-- Contact the Me Anthony Szymczak!
+- Contact Me Anthony Szymczak!
 
 ### Technologies used to write this application
  - React.js
