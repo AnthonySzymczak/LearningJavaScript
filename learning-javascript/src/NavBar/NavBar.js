@@ -66,7 +66,7 @@ function Navbar() {
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                Intro Algorithms 2
+                Algorithms 2
               </Link>
             </li>
             <li className="nav-item">

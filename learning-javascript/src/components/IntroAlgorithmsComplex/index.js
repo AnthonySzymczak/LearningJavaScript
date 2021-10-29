@@ -4,7 +4,7 @@ import React from 'react'
 function IntroAlgorithmsComplex (){
     return(
 <div>
-            <h1>Intro to Algorithms Complex</h1>
+            <h1>Complex Algorithms</h1>
             
                     
         </div>
