@@ -1,8 +1,31 @@
-/* body {
-    min-height: 100vh;
-    font-family: 'Kanit', sans-serif;
-    background: aqua; 
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-  } */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .BodyIntro {
+      background-color: white;
+      background: white;
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      top: 480px;
+      padding: 0 .2em;
+      text-align: center;
+    }
+
+    .IntroContent1 {
+        background-color: white;
+        background: white;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        top: 580px;
+        padding: 0 .2em;
+        text-align: center;
+      }
+
+      .dataTypes{
+          text-align:left;
+      }
+    
