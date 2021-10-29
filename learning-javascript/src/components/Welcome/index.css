@@ -24,7 +24,7 @@ h1 {
   
   left: 50%;
   transform: translateX(-50%);
-  top: 180px;
+  top: 380px;
   padding: 0 .2em;
   
 /*  Decoration trick  */
@@ -55,7 +55,7 @@ h2 {
 
 @media (max-width: 450px){
   h1 {
-    font-size: 1.7rem;
+    font-size: 1.7 rem;
   }
   
   h2 {
