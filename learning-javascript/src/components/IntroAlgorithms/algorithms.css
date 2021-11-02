@@ -1,0 +1,21 @@
+.arithmetic {
+    background-color: white;
+      background: white;
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      top: 480px;
+      padding: 0 .2em;
+      text-align: center;
+    }
+
+    .odd {
+        background-color: white;
+        background: white;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        top: 730px;
+        padding: 0 .2em;
+        text-align: center;
+    }
